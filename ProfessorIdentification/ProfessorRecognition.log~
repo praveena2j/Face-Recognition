@@ -1,0 +1,79 @@
+2015-12-01 17:57:39,734 - INFO - Input Video: /home/praveen/Documents/ProfessorIdentificationFeature/TestingVideos/prof1.sample5.mp4
+2015-12-01 17:57:39,734 - INFO - Input XML  : ../trainingSet/pesit_civil_training.xml
+2015-12-01 17:57:50,952 - DEBUG - 	nbr_predicted_svm: 1
+2015-12-01 17:57:50,953 - DEBUG - 	nbr_predicted: 1
+2015-12-01 17:57:50,953 - DEBUG - 	conf: 96.6597430577
+2015-12-01 17:58:52,620 - DEBUG - 	nbr_predicted_svm: 1
+2015-12-01 17:58:52,620 - DEBUG - 	nbr_predicted: 1
+2015-12-01 17:58:52,620 - DEBUG - 	conf: 77.1269057117
+2015-12-01 17:58:59,416 - DEBUG - 	nbr_predicted_svm: 1
+2015-12-01 17:58:59,417 - DEBUG - 	nbr_predicted: 1
+2015-12-01 17:58:59,417 - DEBUG - 	conf: 78.1529427552
+2015-12-01 17:59:00,644 - DEBUG - 	nbr_predicted_svm: 1
+2015-12-01 17:59:00,645 - DEBUG - 	nbr_predicted: 1
+2015-12-01 17:59:00,645 - DEBUG - 	conf: 63.7686583839
+2015-12-01 17:59:01,706 - DEBUG - 	nbr_predicted_svm: 1
+2015-12-01 17:59:01,707 - DEBUG - 	nbr_predicted: 1
+2015-12-01 17:59:01,707 - DEBUG - 	conf: 81.5048465793
+2015-12-01 17:59:01,707 - INFO - /home/praveen/Documents/ProfessorIdentificationFeature/TestingVideos/prof1.sample5.mp4: Recognized professor ID: 1 as per chi square
+2015-12-01 17:59:01,707 - INFO - /home/praveen/Documents/ProfessorIdentificationFeature/TestingVideos/prof1.sample5.mp4: Recognized professor ID: 1 as per SVM
+2015-12-01 17:59:01,707 - INFO - ********************* Complete *********************
+2015-12-01 18:00:24,385 - INFO - Input Video: /home/praveen/Documents/ProfessorIdentificationFeature/TestingVideos/prof1.sample5.mp4
+2015-12-01 18:00:24,385 - INFO - Input XML  : ../trainingSet/pesit_civil_training.xml
+2015-12-01 18:00:35,384 - DEBUG - 	nbr_predicted_svm: 1
+2015-12-01 18:00:35,384 - DEBUG - 	nbr_predicted: 1
+2015-12-01 18:00:35,384 - DEBUG - 	conf: 96.6597430577
+2015-12-01 18:01:32,323 - DEBUG - 	nbr_predicted_svm: 1
+2015-12-01 18:01:32,324 - DEBUG - 	nbr_predicted: 1
+2015-12-01 18:01:32,324 - DEBUG - 	conf: 77.1269057117
+2015-12-01 18:01:38,593 - DEBUG - 	nbr_predicted_svm: 1
+2015-12-01 18:01:38,594 - DEBUG - 	nbr_predicted: 1
+2015-12-01 18:01:38,594 - DEBUG - 	conf: 78.1529427552
+2015-12-01 18:01:39,820 - DEBUG - 	nbr_predicted_svm: 1
+2015-12-01 18:01:39,820 - DEBUG - 	nbr_predicted: 1
+2015-12-01 18:01:39,820 - DEBUG - 	conf: 63.7686583839
+2015-12-01 18:01:41,144 - DEBUG - 	nbr_predicted_svm: 1
+2015-12-01 18:01:41,144 - DEBUG - 	nbr_predicted: 1
+2015-12-01 18:01:41,144 - DEBUG - 	conf: 81.5048465793
+2015-12-01 18:01:41,144 - INFO - /home/praveen/Documents/ProfessorIdentificationFeature/TestingVideos/prof1.sample5.mp4: Recognized professor ID: 1 as per chi square
+2015-12-01 18:01:41,144 - INFO - /home/praveen/Documents/ProfessorIdentificationFeature/TestingVideos/prof1.sample5.mp4: Recognized professor ID: 1 as per SVM
+2015-12-01 18:01:41,144 - INFO - ********************* Complete *********************
+2015-12-02 15:42:43,376 - INFO - Input Video: prof41945.sample1.mp4
+2015-12-02 15:43:20,677 - INFO - Input Video: prof41945.sample1.mp4
+2015-12-02 15:44:35,689 - INFO - Input Video: prof41945.sample1.mp4
+2015-12-02 15:47:19,229 - INFO - Input Video: prof41945.sample1.mp4
+2015-12-02 15:47:19,229 - INFO - Input XML  : /home/praveen/imageprocessing/trainingSet/pesit_civil_training.xml
+2015-12-02 15:47:23,676 - INFO - SampleImageSize: 300x300
+2015-12-02 15:49:32,664 - DEBUG - 	nbr_predicted_svm: 7
+2015-12-02 15:49:32,664 - DEBUG - 	nbr_predicted: 7
+2015-12-02 15:49:32,664 - DEBUG - 	conf: 64.0605115762
+2015-12-02 15:55:02,911 - INFO - Input Video: prof41945.sample1.mp4
+2015-12-02 15:55:02,911 - INFO - Input XML  : /home/praveen/imageprocessing/trainingSet/pesit_civil_training.xml
+2015-12-02 15:55:06,736 - INFO - SampleImageSize: 300x300
+2015-12-02 15:57:18,191 - DEBUG - 	nbr_predicted_svm: 7
+2015-12-02 15:57:18,191 - DEBUG - 	nbr_predicted: 7
+2015-12-02 15:57:18,191 - DEBUG - 	conf: 64.0605115762
+2015-12-02 16:02:29,526 - INFO - Input Video: prof41945.sample1.mp4
+2015-12-02 16:02:29,526 - INFO - Input XML  : /home/praveen/imageprocessing/trainingSet/pesit_civil_training.xml
+2015-12-02 16:02:33,126 - INFO - SampleImageSize: 300x300
+2015-12-02 16:05:19,488 - INFO - Input Video: prof41945.sample1.mp4
+2015-12-02 16:05:19,488 - INFO - Input XML  : /home/praveen/imageprocessing/trainingSet/pesit_civil_training.xml
+2015-12-02 16:05:23,103 - INFO - SampleImageSize: 300x300
+2015-12-02 16:07:29,280 - DEBUG - 	nbr_predicted_svm: 7
+2015-12-02 16:07:29,281 - DEBUG - 	nbr_predicted: 7
+2015-12-02 16:07:29,281 - DEBUG - 	conf: 64.0605115762
+2015-12-02 16:07:30,079 - DEBUG - 	nbr_predicted_svm: 7
+2015-12-02 16:07:30,080 - DEBUG - 	nbr_predicted: 7
+2015-12-02 16:07:30,080 - DEBUG - 	conf: 60.4115154658
+2015-12-02 16:07:30,850 - DEBUG - 	nbr_predicted_svm: 7
+2015-12-02 16:07:30,850 - DEBUG - 	nbr_predicted: 7
+2015-12-02 16:07:30,850 - DEBUG - 	conf: 67.3082110116
+2015-12-02 16:07:31,597 - DEBUG - 	nbr_predicted_svm: 7
+2015-12-02 16:07:31,597 - DEBUG - 	nbr_predicted: 7
+2015-12-02 16:07:31,597 - DEBUG - 	conf: 90.2915817347
+2015-12-02 16:07:32,349 - DEBUG - 	nbr_predicted_svm: 7
+2015-12-02 16:07:32,349 - DEBUG - 	nbr_predicted: 7
+2015-12-02 16:07:32,349 - DEBUG - 	conf: 64.6308688088
+2015-12-02 16:07:32,349 - INFO - prof41945.sample1.mp4: Recognized professor ID: 7 as per chi square
+2015-12-02 16:07:32,349 - INFO - prof41945.sample1.mp4: Recognized professor ID: 7 as per SVM
+2015-12-02 16:07:32,349 - INFO - ********************* Complete *********************
